@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "noxar.aternos.me",
-    "port": 35363,
+    "ip": "NOXAR_PVP.aternos.me",
+    "port": 16224,
     "version": "",
     "try-creative": false
   },
